@@ -4,14 +4,14 @@
 
 
 
-My experience spans interdisciplinary project leadership and technical research:
+<h2>My experience spans interdisciplinary project leadership and technical research:</h2>
 
 
-Aerospace Systems:<b> Served as a Programmatics Mechanical Engineer for a NASA L’SPACE mission concept, integrating mechanical design with science and programmatic constraints to deliver WBS elements and risk assessments aligned with NASA systems engineering standards.
+<b>Aerospace Systems:</b> Served as a Programmatics Mechanical Engineer for a NASA L’SPACE mission concept acadamy, integrating mechanical design with science and programmatic constraints to deliver WBS elements and risk assessments aligned with NASA systems engineering standards.
 
-Autonomous Systems: Designed and prototyped complex assemblies, including an overhead rail-guided drone system and a full-scale pumpkin trebuchet, utilizing statics and dynamics to optimize structural performance.
+<b>Autonomous Systems:</b> Designed and prototyped complex assemblies, including an overhead rail-guided drone system and a full-scale pumpkin trebuchet, utilizing statics and dynamics to optimize structural performance.
 
-AI & Research: Assisted in deep learning research for drone-based detection, contributing to dataset annotation and model training for segmentation projects.
+<b>AI & Research:</b> Assisted in deep learning research for drone-based detection, contributing to dataset annotation and model training for segmentation projects.
 I am a "safety-first" engineer who maintains an Active Security Clearance and a disciplined approach to project lifecycles, ensuring all designs meet rigorous quality control and regulatory standards</p>
 
 
