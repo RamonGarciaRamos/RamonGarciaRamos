@@ -1,7 +1,18 @@
-<h1>Hi, I'm Ramon! <br/><a href="https://github.com/RamonGarciaRamos">Mechanical  Engineering Student</a></h1>
+<h1>Hi, I'm Ramon Garcia Ramos! <br/><a href="https://github.com/RamonGarciaRamos">Mechanical  Engineering Student</a></h1>
 
-<h2>Mechanical Engineering Projects:</h2>
+<p>I am a Mechanical Engineering student at Kennesaw State University (graduating May 2026) focused on bridging high-fidelity mechanical design with systems-level execution. My technical background is anchored by seven SolidWorks certifications, including Professional-level credentials in Drawing Tools and Mold Making, alongside proficiency in Siemens NX, ANSYS, and FEA. I specialize in translating complex conceptual architectures into functional, manufacturing-ready products through a combination of traditional engineering principles and modern additive manufacturing.
 
+
+
+My experience spans interdisciplinary project leadership and technical research:
+
+
+Aerospace Systems:<b> Served as a Programmatics Mechanical Engineer for a NASA L’SPACE mission concept, integrating mechanical design with science and programmatic constraints to deliver WBS elements and risk assessments aligned with NASA systems engineering standards.
+
+Autonomous Systems: Designed and prototyped complex assemblies, including an overhead rail-guided drone system and a full-scale pumpkin trebuchet, utilizing statics and dynamics to optimize structural performance.
+
+AI & Research: Assisted in deep learning research for drone-based detection, contributing to dataset annotation and model training for segmentation projects.
+I am a "safety-first" engineer who maintains an Active Security Clearance and a disciplined approach to project lifecycles, ensuring all designs meet rigorous quality control and regulatory standards</p>
 
 
 <h2> 🤳 Connect with me:</h2>
